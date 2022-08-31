@@ -10,9 +10,10 @@ public class Main {
         int[] sales2 = {1200, 200, 100};
         SalesManager Petrov = new SalesManager(sales2);
         int max2 = Petrov.max();
+        int average = Petrov.average();
 
 
 
     }
 
-    }
+}
